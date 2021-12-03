@@ -1,0 +1,3 @@
+enum InputFormat {
+  json
+}

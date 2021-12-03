@@ -1,0 +1,9 @@
+{
+  "gender": {
+    "male" : "Männlich",
+    "female" : "Weiblich",
+    "other" : "Divers"
+  },
+  "name": "Vorname",
+  "lastname": "Nachname"
+}
